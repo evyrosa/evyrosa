@@ -3,7 +3,9 @@ I'm Evelyn Rosa </h2>
 
 <img src="https://media0.giphy.com/media/46yPfgO81ZalJSKu74/giphy.gif?cid=790b76116126beef9fc5a99b40446134625c2d9d9ed15c00&rid=giphy.gif&ct=s" width="300">
 
-🌈 Estudante de Desenvovimento Web pela Generation Brasil 🌈
+🌈 Desenvolvedora Fullstack Jr
+🌈 Membro do Turing-USP 
+🌈 Estudante de Letras
 
 ---
 <a href="www.linkedin.com/in/evyrosa
